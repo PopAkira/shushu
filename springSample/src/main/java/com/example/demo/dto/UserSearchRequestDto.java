@@ -5,7 +5,7 @@ import java.io.Serializable;
 import lombok.Data;
 
 /**
- * ユーザー情報 検索用リクエストデータ
+ * ユーザー情報 検索用リクエストデータDto
  */
 @Data
 public class UserSearchRequestDto implements Serializable {
